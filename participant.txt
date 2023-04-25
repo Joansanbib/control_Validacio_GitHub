@@ -1,3 +1,5 @@
 Nom: Joan
 Edat: 18
 Estudis: GS en Desenvolupament d'Apps Multiplataforma
+Projectes: dafs
+Eines: dsvcx
